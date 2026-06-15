@@ -92,6 +92,75 @@ jupyter notebook week2_Rohit_Kumar.ipynb
 
 ---
 
+# 📈 Week 3: Customer Intelligence System – Segmentation & Predictive Analytics
+
+## 📚 Project Overview
+
+Developed an end-to-end Customer Intelligence System using unsupervised and supervised machine learning techniques to identify meaningful customer segments and predict segment membership. The project combines clustering algorithms (K-Means, DBSCAN) with ensemble learning models (Random Forest, XGBoost) to generate actionable business insights and improve decision-making.
+
+## 📌 Dataset
+
+Country Data for Customer Segmentation
+
+Dataset Source:
+https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data
+
+Reference Notebook:
+https://www.kaggle.com/code/jatin2bagga/unsupervised-learning-on-country-data/edit
+
+## 🔍 Tasks Performed
+
+* Data Cleaning and Preprocessing
+* Exploratory Data Analysis (EDA)
+* Correlation Analysis
+* Feature Scaling and Normalization
+* K-Means Clustering
+* Elbow Method for Optimal Cluster Selection
+* Cluster Profiling and Interpretation
+* DBSCAN Clustering
+* Random Forest Classification
+* XGBoost Classification
+* Model Evaluation and Comparison
+* Feature Importance Analysis
+* Customer Segment Prediction
+* Business Insights Generation
+
+## 🛠️ Tools & Libraries Used
+
+* Python 3
+* Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* XGBoost
+
+## ▶️ Run the Notebook
+
+```bash
+jupyter notebook week3_Rohit_Kumar.ipynb
+```
+
+## 📊 Project Results
+
+* Identified meaningful customer segments using K-Means and DBSCAN clustering.
+* Achieved 94%+ classification accuracy using ensemble learning models.
+* Generated interpretable customer profiles through cluster analysis.
+* Evaluated model performance using Accuracy, Precision, Recall, and F1-Score.
+* Determined key features influencing customer segmentation through feature importance analysis.
+
+## 🎯 Key Learning Outcomes
+
+* Applied both unsupervised and supervised machine learning techniques in a single workflow.
+* Learned customer segmentation using clustering algorithms.
+* Built ensemble models for predictive analytics.
+* Performed model evaluation using industry-standard metrics.
+* Extracted actionable business insights from data.
+* Improved understanding of customer intelligence and data-driven decision making.
+* Strengthened practical skills in machine learning model development and interpretation.
+
+
 ## 👨‍💻 Author
 
 **Rohit Kumar Dhakad**
