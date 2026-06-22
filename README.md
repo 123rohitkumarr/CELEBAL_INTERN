@@ -159,7 +159,88 @@ jupyter notebook week3_Rohit_Kumar.ipynb
 * Extracted actionable business insights from data.
 * Improved understanding of customer intelligence and data-driven decision making.
 * Strengthened practical skills in machine learning model development and interpretation.
+  
+--- 
 
+# 🖼️ Week 4: CIFAR-10 Image Classification using ANN & CNN
+
+## 📚 Project Overview
+
+Built and compared image classification models on the CIFAR-10 dataset using both Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN). The project focuses on evaluating model performance across different architectures and training strategies to understand the strengths and limitations of each approach in image recognition tasks.
+
+## 📌 Dataset
+
+**CIFAR-10 Dataset**
+
+The CIFAR-10 dataset contains 60,000 color images (32×32 pixels) across 10 different classes:
+
+* Airplane
+* Automobile
+* Bird
+* Cat
+* Deer
+* Dog
+* Frog
+* Horse
+* Ship
+* Truck
+
+Dataset Source:
+https://www.cs.toronto.edu/~kriz/cifar.html
+
+Reference Notebook:
+https://colab.research.google.com/drive/1n5L08aoMpB0ZuV69qMlt2u_zIzMzL5lA
+
+## 🔍 Tasks Performed
+
+* Data Loading and Preprocessing
+* Image Normalization
+* One-Hot Encoding of Labels
+* Artificial Neural Network (ANN) Implementation
+* Convolutional Neural Network (CNN) Implementation
+* Model Training and Validation
+* Performance Evaluation
+* Accuracy and Loss Analysis
+* Architecture Comparison (ANN vs CNN)
+* Training Strategy Analysis
+* Visualization of Results
+* Confusion Matrix Evaluation
+
+## 🛠️ Tools & Libraries Used
+
+* Python 3
+* Jupyter Notebook / Google Colab
+* TensorFlow
+* Keras
+* NumPy
+* Matplotlib
+* Scikit-learn
+
+## ▶️ Run the Notebook
+
+```bash
+jupyter notebook week4_Rohit_Kumar.ipynb
+```
+
+## 📊 Project Results
+
+* Successfully implemented both ANN and CNN models for image classification.
+* Compared classification performance across different neural network architectures.
+* CNN achieved significantly higher accuracy than ANN due to its ability to capture spatial image features.
+* Evaluated models using Accuracy, Loss Curves, and Confusion Matrix.
+* Analyzed the impact of training strategies on model performance and generalization.
+
+## 🎯 Key Learning Outcomes
+
+* Learned the fundamentals of image classification using deep learning.
+* Understood the differences between ANN and CNN architectures.
+* Gained practical experience with TensorFlow and Keras.
+* Learned image preprocessing and feature extraction techniques.
+* Evaluated deep learning models using industry-standard metrics.
+* Developed skills in model comparison and performance analysis.
+* Strengthened understanding of computer vision concepts.
+
+---
 
 ## 👨‍💻 Author
 
