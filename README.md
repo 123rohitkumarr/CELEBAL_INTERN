@@ -242,10 +242,41 @@ jupyter notebook week4_Rohit_Kumar.ipynb
 
 ---
 
+# 🚀 Week 5 - Deep Learning Assignment
+
+## Text Generation using RNN, LSTM & GRU
+
+### 📌 Objective
+Build and compare Vanilla RNN, LSTM, and GRU models for text generation by learning patterns from a text corpus.
+
+### 🛠️ Technologies
+- Python
+- TensorFlow/Keras
+- NumPy
+- Matplotlib
+
+### 📂 Features
+- Text preprocessing
+- Tokenization
+- Vanilla RNN
+- LSTM
+- GRU
+- Text generation
+- Model comparison
+
+### ▶️ Run
+```bash
+pip install tensorflow numpy matplotlib
+```
+
+Open and run `Week_05_Rohit_Kumar.ipynb`.
+
+--- 
+
 ## 👨‍💻 Author
 
 **Rohit Kumar Dhakad**
 
 ## ⭐ Acknowledgment
 
-Thank you for visiting this repository. Feedback and suggestions are always welcome!
+Thank you for visiting this repository.
