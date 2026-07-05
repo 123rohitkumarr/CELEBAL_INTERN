@@ -273,6 +273,34 @@ Open and run `Week_05_Rohit_Kumar.ipynb`.
 
 --- 
 
+# Week_06 Image Denoising using Autoencoder
+
+## Overview
+This project uses an **Autoencoder** to remove noise from **MNIST** handwritten digit images.
+
+## Dataset
+- MNIST Dataset
+- https://www.kaggle.com/datasets/awsaf49/mnist-dataset
+
+## Tools
+- Python
+- TensorFlow
+- NumPy
+- Matplotlib
+
+## Files
+- `Week_06_Rohit_Kumar.ipynb` – Project notebook
+- `README.md` – Project details
+
+## Run
+```bash
+pip install tensorflow numpy matplotlib
+```
+
+Open `Week_06_Rohit_Kumar.ipynb` and run all cells.
+
+---
+
 ## 👨‍💻 Author
 
 **Rohit Kumar Dhakad**
