@@ -301,6 +301,109 @@ Open `Week_06_Rohit_Kumar.ipynb` and run all cells.
 
 ---
 
+# 🤖 Week_07: Retrieval-Augmented Generation (RAG) System
+
+## 📚 Project Overview
+
+Developed a simple **Retrieval-Augmented Generation (RAG)** system that answers user questions using information retrieved from custom documents. The project combines document retrieval with a Large Language Model (LLM) to generate context-aware and accurate responses.
+
+## 📌 Objective
+
+Build a pipeline that:
+- Loads custom documents
+- Retrieves the most relevant information
+- Generates answers using an LLM based on the retrieved context
+
+## 🔍 Tasks Performed
+
+- Document Loading
+- Text Chunking
+- Embedding Generation
+- Vector Store Creation
+- Similarity Search
+- Context Retrieval
+- Question Answering using LLM
+- Response Evaluation
+
+## 🛠️ Tools & Libraries Used
+
+- Python
+- Jupyter Notebook
+- LangChain
+- FAISS
+- Hugging Face Transformers
+- Sentence Transformers
+- NumPy
+
+## ▶️ Run the Project
+
+```bash
+pip install langchain faiss-cpu sentence-transformers transformers
+```
+
+Open `Week_07_Rohit_Kumar.ipynb` and run all cells.
+
+## 🎯 Key Learning Outcomes
+
+- Learned the fundamentals of Retrieval-Augmented Generation (RAG).
+- Built a document retrieval pipeline using vector embeddings.
+- Performed semantic search using FAISS.
+- Integrated retrieval with a Large Language Model.
+- Improved understanding of modern LLM-based applications.
+- Gained practical experience in building AI-powered question-answering systems.
+
+---
+
+# 🤖 Week_08: AI Agent Pipeline & Short Quiz
+
+## 📚 Project Overview
+
+Built a simple AI Agent Pipeline capable of processing user queries through multiple steps, along with a Short Quiz application to demonstrate prompt-based interactions and workflow execution.
+
+## 📌 Objective
+
+Develop an AI agent workflow that:
+- Accepts user input
+- Processes queries through an agent pipeline
+- Generates relevant responses
+- Demonstrates prompt engineering and task automation
+
+## 🔍 Tasks Performed
+
+- AI Agent Workflow Design
+- Prompt Engineering
+- Multi-step Pipeline Execution
+- Query Processing
+- Response Generation
+- Short Quiz Implementation
+- Output Evaluation
+
+## 🛠️ Tools & Libraries Used
+
+- Python
+- Jupyter Notebook / Google Colab
+- OpenAI API
+- LangChain
+- NumPy
+
+## ▶️ Run the Project
+
+```bash
+pip install openai langchain numpy
+```
+
+Open `Week_08_Rohit_Kumar.ipynb` and run all cells.
+
+## 🎯 Key Learning Outcomes
+
+- Learned the fundamentals of AI agents and agent pipelines.
+- Built a multi-step workflow for processing user queries.
+- Improved prompt engineering techniques.
+- Understood task orchestration in LLM-based applications.
+- Gained hands-on experience in developing AI-powered automation workflows.
+
+---
+
 ## 👨‍💻 Author
 
 **Rohit Kumar Dhakad**
